@@ -1,0 +1,35 @@
+body {
+  background-color: #0d0d0d;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #111;
+  padding: 20px;
+}
+
+nav a {
+  color: #ddd;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: gold;
+}
+
+.hero {
+  padding: 100px 0;
+}
+
+button {
+  background: gold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+}
