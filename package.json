@@ -2,7 +2,7 @@
   "name": "jewelry-shop",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://اسمك.github.io/jewelry-shop",
+  "homepage": "https://OUSSSEMA.github.io/jewelry-shop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
